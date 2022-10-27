@@ -1,0 +1,15 @@
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\bin\Debug\net6.0\fightgame.exe
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\bin\Debug\net6.0\fightgame.deps.json
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\bin\Debug\net6.0\fightgame.runtimeconfig.json
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\bin\Debug\net6.0\fightgame.dll
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\bin\Debug\net6.0\fightgame.pdb
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\obj\Debug\net6.0\fightgame.csproj.AssemblyReference.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\obj\Debug\net6.0\fightgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\obj\Debug\net6.0\fightgame.AssemblyInfoInputs.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\obj\Debug\net6.0\fightgame.AssemblyInfo.cs
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\obj\Debug\net6.0\fightgame.csproj.CoreCompileInputs.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\obj\Debug\net6.0\fightgame.dll
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\obj\Debug\net6.0\refint\fightgame.dll
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\obj\Debug\net6.0\fightgame.pdb
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\obj\Debug\net6.0\fightgame.genruntimeconfig.cache
+C:\Users\bergman.william\Documents\ProgrammeringVSC\fightgame\fightgame\obj\Debug\net6.0\ref\fightgame.dll
